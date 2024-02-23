@@ -3,19 +3,6 @@ I'm a bot that allows your users to dynamically and infinitely create voice chan
 <div style="max-width:640px;margin-left:auto;margin-right:auto"><iframe src='https://gfycat.com/ifr/LateMealyHoneyeater' frameborder='0' scrolling='no' allowfullscreen width='640' height='360' style='height:100%'></iframe></div>
 
 ** **
-**-- Quickstart --**
-
-Run `vc/create` and I'll make a new primary channel for you. When users join this channel, I'll make a new channel for them and move them to it.
-
-The new channel will by default be named according to the game they are playing together, e.g. *"#1 [Warframe]"*, and will rename itself if they start to play a different game - but you can change this to anything you like (see the command reference below).
-
-Once everybody leaves the channel, I'll automatically delete it.
-
-If you need any more help, you can talk to my master here: <https://discord.io/DotsBotsSupport>
-
-If you like this bot, and want to help keep it alive, support me on Patreon :) <https://www.patreon.com/pixaal>
-
-** **
 **-- Commands --**
 
 The prefix for all commands is `vc/`, e.g. `vc/create`. You can also mention me instead, like `@Auto Voice Channels create`.
