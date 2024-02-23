@@ -1,20 +1,3 @@
-# Auto-Voice-Channels
-
-### A Discord bot that automatically creates voice channels as they are needed.
-
-- [Public bot invite link](https://discordapp.com/api/oauth2/authorize?client_id=479393422705426432&permissions=286280784&scope=bot)
-- [Beta bot invite link](https://discordapp.com/api/oauth2/authorize?client_id=675405085752164372&permissions=286280784&scope=bot)
-- [Discord server](https://discord.gg/HT6GNhJ)
-- [Patreon](https://www.patreon.com/pixaal)
-
-## Requires:
-
-* [Python 3.5.3+](https://www.python.org/downloads/)
-* [discord.py](https://pypi.org/project/discord.py/) (`pip install discord.py`)
-* [pytz](https://pypi.org/project/pytz/) (`pip install pytz`)
-* [psutil](https://pypi.org/project/psutil/) (`pip install psutil`)
-* [Requests](https://pypi.org/project/requests/) (`pip install requests`)
-
 ## Quick start:
 
 * Clone the repository: `git clone git@github.com:gregzaal/Auto-Voice-Channels.git`
@@ -44,6 +27,5 @@
 * Invite the bot to your own server, replacing `<YOUR BOT ID>` with... your bot ID: `https://discordapp.com/api/oauth2/authorize?client_id=<YOUR BOT ID>&permissions=286280784&scope=bot`
 * Start your bot: `python3 auto-voice-channels.py`
 
-## Help:
 
-[Join the support server](https://discord.gg/HT6GNhJ) and ask, or [open an issue](https://github.com/gregzaal/Auto-Voice-Channels/issues).
+
