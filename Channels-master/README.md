@@ -17,10 +17,10 @@
 
 ```json
 {
-    "admin_id":123456789012345678,
-    "client_id":987654321098765432,
+    "admin_id":415181250672852992,
+    "client_id":1210453368913526814,
     "log_timezone":"Africa/Johannesburg",
-    "token":"XXXXXXXXXXXXXXXXXXXXXXXX.XXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    "token":"MTIxMDQ1MzM2ODkxMzUyNjgxNA.GbZwNt.F5ZFHD9ElRJWw6LrGxUttaSD6My3noh4mklZkQ"
 }
 ```
 
